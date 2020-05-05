@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/micro-react-demo/css/main.d1b05096.chunk.css",
+    "main.js": "/micro-react-demo/js/main.1f2d991c.chunk.js",
+    "main.js.map": "/micro-react-demo/js/main.1f2d991c.chunk.js.map",
+    "runtime-main.js": "/micro-react-demo/js/app.js",
+    "runtime-main.js.map": "/micro-react-demo/js/app.js.map",
+    "js/2.9f4f5b31.chunk.js": "/micro-react-demo/js/2.9f4f5b31.chunk.js",
+    "js/2.9f4f5b31.chunk.js.map": "/micro-react-demo/js/2.9f4f5b31.chunk.js.map",
+    "css/main.d1b05096.chunk.css.map": "/micro-react-demo/css/main.d1b05096.chunk.css.map",
+    "index.html": "/micro-react-demo/index.html",
+    "js/2.9f4f5b31.chunk.js.LICENSE.txt": "/micro-react-demo/js/2.9f4f5b31.chunk.js.LICENSE.txt",
+    "media/logo.svg": "/micro-react-demo/media/logo.5d5d9eef.svg",
+    "precache-manifest.78252c8f7ed2f8fd6ecea30156ca236f.js": "/micro-react-demo/precache-manifest.78252c8f7ed2f8fd6ecea30156ca236f.js",
+    "service-worker.js": "/micro-react-demo/service-worker.js"
+  },
+  "entrypoints": [
+    "js/app.js",
+    "js/2.9f4f5b31.chunk.js",
+    "css/main.d1b05096.chunk.css",
+    "js/main.1f2d991c.chunk.js"
+  ]
+}
